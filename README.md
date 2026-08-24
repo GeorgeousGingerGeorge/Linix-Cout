@@ -1,2 +1,5 @@
-# Linix-Cout
-Quick test in class
+## Linix-Cout Front Row
+# Contributers
+Tristan Day  
+Logon OBrien-helper  
+Kevin Gray  
