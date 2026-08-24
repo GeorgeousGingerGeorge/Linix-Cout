@@ -1,5 +1,5 @@
 ## Linix-Cout Front Row
 # Contributers
-Tristan Day
-
-Kevin Gray
+Tristan Day  
+Logon OBrien-helper  
+Kevin Gray  
